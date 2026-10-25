@@ -1,0 +1,19 @@
+# Зависимости и локальное
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Резервные копии и QA-артефакты (не для публикации)
+backup-v1/
+backup-v2/
+backup-2026-10-25/
+qa/
+qa2/
+compare-before/
+compare-after/
+
+# Системное и временное
+.DS_Store
+Thumbs.db
+*.log
+.tmp/
